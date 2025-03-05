@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^7.15.0",
+    "canvas": "^3.1.0",
+    "papaparse": "^5.5.1"
+  }
+}
